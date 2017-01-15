@@ -85,8 +85,6 @@
 
 + [**лучшие моды по версии реддита**](https://www.reddit.com/r/skyrimmods/wiki/best_mods_for)
 
-+ [**ГРАФОН**](http://pastebin.com/TtA2r58E)
-
 + [**создание "чистого" сохранения, лечение вылетов при сохранении**](http://pastebin.com/GcwxuRDT)
 
 
